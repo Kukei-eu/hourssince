@@ -1,0 +1,15 @@
+{
+  "name": "@kukei-eu/hourssince",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kukei-eu/hourssince.git",
+  "author": "Szymon Nowicki <hey@nowicki.io>",
+  "license": "GNU",
+  "private": true,
+  "scripts": {
+    "dev": "http-server dist -o"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
